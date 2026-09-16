@@ -1,0 +1,1 @@
+print("o Elton ama o Jimin")
